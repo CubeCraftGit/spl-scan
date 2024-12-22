@@ -1,10 +1,10 @@
 All files will be uploaded for the user to give examples and add thier own implementations if interested.
 
-# SPL-20 pumpfun deployment implementation for Bitgent.
+# SPL-20 pumpfun deployment implementation for ordigent.
 
 ### Supports multi-social agent:
 
-- see: [https://gist.github.com/bitgentdev/89e7a833a826842bfa7db572f34195fe.js](https://gist.github.com/bitgentdev/89e7a833a826842bfa7db572f34195fe) for more information
+- see: https://gist.github.com/ordigent/7262442ba5e5e1a1c4ef945bca20ae38 for more information
 
 ## Contributing
 
