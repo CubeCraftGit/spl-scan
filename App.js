@@ -10,6 +10,7 @@ const {
     insertOrUpdateToken, 
     insertMetrics, 
     getLatestMetrics 
+    
 } = require('./src/database/tokenOperations');
 const { fetchTokenInfo } = require('./src/utils/fetchTokenInfo');
 const { logMarketcap } = require('./src/observers/logMarketcap');
